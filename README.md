@@ -1,3 +1,3 @@
-<h1 align="center"> Standard discord Nuke-bot(not finished) </h1>
+<h1 align="center"> [Discord] - Standart Nuke-bot(not finished) </h1>
 
 <img src="https://img.shields.io/github/downloads/ArMaGeDDoN-SS/Standard-Nuke-bot/total?logo=GitHub&style=for-the-badge" style="max-width: 100%;"> <img src="https://img.shields.io/discord/1055522427272175646?color=15315c&label=Discord&logo=discord&logoColor=fff&style=for-the-badge" style="max-width: 100%;"> <img src="https://img.shields.io/github/languages/code-size/ArMaGeDDoN-SS/Standard-Nuke-bot?color=ad3434&logo=Python&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/github/watchers/ArMaGeDDoN-SS/Standard-Nuke-bot?color=772694&logo=WeChat&logoColor=fff&style=for-the-badge">
