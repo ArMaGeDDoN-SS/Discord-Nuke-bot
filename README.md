@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-      <td> The use and development of such bots contradicts </td>
+      <td align="center"> The use and development of such bots contradicts </td>
     </tr>
     <tr>
       <td> By using this bot, you automatically confirm that you are fully responsible for its further use. If your account is blocked by discord support for using this bot, I will not be held responsible. </td>
