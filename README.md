@@ -116,3 +116,14 @@
 ```
 </div>
 </details>
+
+<details>
+<summary>Quantitatively custom nuke-commands</summary>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+	
+```C#
++ intchannels <Number> - Creating the specified number of channels.
++ introles <Number> - Creating the specified number of roles.
+```
+</div>
+</details>
