@@ -39,7 +39,7 @@
 	"avatar_file": "avatar.jpg (The file name is avatars. It is necessary to change the server avatar)",
 }
 ```
-
+<p> <b> Information about each line of the "config.json" file: </b> </p>
 <ul>
 <li><p><code>token</code> - This line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p></li>
 <li><p><code>prefix</code> - This line specifies the prefix of your bot. The default value is <code>"!"</code>.</p></li>
