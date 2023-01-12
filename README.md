@@ -103,3 +103,16 @@
 ```
 </div>
 </details>
+	
+<details>
+<summary>Custom classic nuke-commands</summary>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+	
+```C#
++ customchan <Name> - Mass creation of channels with the specified name.
++ customroles <Name> - Mass creation of roles with the specified name.
++ customname <Name> - Changing the server name to the specified one.
++ customspam <Text> - Mass spam with the specified text.
+```
+</div>
+</details>
