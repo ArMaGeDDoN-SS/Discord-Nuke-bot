@@ -41,4 +41,4 @@
 ```
 
 <p><code>token</code> - this line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p>
-<p><code>prefix</code> - this line specifies the prefix of your bot. The default value is <code>"!"</code>.
+<p><code>prefix</code> - this line specifies the prefix of your bot. The default value is <code>"!"</code>.</p>
