@@ -40,7 +40,11 @@
 }
 ```
 
-<p><code>token</code> - this line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p>
-<p><code>prefix</code> - this line specifies the prefix of your bot. The default value is <code>"!"</code>.</p>
-<p><code>loghook</code> - this line contains a link to the webhook. Before the destruction of the server begins, the bot sends information about the target server to the webhook you specified.</p>
-<p><code>developer_list</code> - this list specifies the ID of users who will have access to system commands that edit the blacklist and whitelist.</p>
+<p><code>token</code> - This line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p>
+<p><code>prefix</code> - This line specifies the prefix of your bot. The default value is <code>"!"</code>.</p>
+<p><code>loghook</code> - This line contains a link to the webhook. Before the destruction of the server begins, the bot sends information about the target server to the webhook you specified.</p>
+<p><code>developer_list</code> - This list specifies the ID of users who will have access to system commands that edit the blacklist and whitelist.</p>
+<p><code>channels_name</code> - </p>
+<p><code>roles_name</code> - </p>
+<p><code>server_name</code> - </p>
+<p><code>avatar_file</code> - </p>
