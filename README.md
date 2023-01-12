@@ -92,3 +92,14 @@
 </div>
 </details>
 
+<details>
+<summary>Spam commands</summary>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+	
+```C#
++ spam - Mass sending of messages to the channels.
++ allspam - Mass sending of messages to all channels.
++ dmspam <@пинг | ID> - Mass sending of messages to the mentioned.
+```
+</div>
+</details>
