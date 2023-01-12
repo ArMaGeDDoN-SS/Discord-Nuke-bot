@@ -58,9 +58,13 @@
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
 	
 ```python
-	
-- attack
-	
+attack - Automatic server destruction.
+delchannels - Deleting all channels.
+delroles - Deleting all roles.
+channels - Mass creation of channels.
+roles - Mass creation of roles.
+rename - Changing the server name.
+delemoji - Deleting all emojis.
 ```
 </div>
 </details>
