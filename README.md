@@ -40,4 +40,4 @@
 }
 ```
 
-<p><code>token</code> - this line specifies the token of your bot. You can get your bot token on the official Discord Developers website..</p>
+<p><code>token</code> - this line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p>
