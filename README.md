@@ -8,7 +8,7 @@
 
 <table align="center">
   <thread>
-    <th> <h4 align="center">This bot was created solely for entertainment and educational purposes</h4> </th>
+    <th> <h5 align="center">This bot was created solely for entertainment and educational purposes</h5> </th>
   </thread>
 </table>
 
