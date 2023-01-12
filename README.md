@@ -12,9 +12,7 @@
   </thread>
   <tbody>
     <tr>
-      <td>
-        <p>The use and development of such bots contradicts Discord T.O.S</p>
-      </td>
+      <td>he use and development of such bots contradicts Discord T.O.S</p></td>
     </tr>
   </tbody>
 </table>
