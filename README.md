@@ -33,9 +33,9 @@
 	"prefix": "YOU PREFIX HERE",
 	"loghook": "The webhook to which information about the destroyed servers will be sent.", 
 	"developer_list": ["List of people who will be granted access to the developer's commands"],
-	"channels_name": "crash3d by blood group",
-	"roles_name": "crash3d by blood group",
-	"server_name": "___...-<<CrAsH3D>>-...___",
-	"avatar_file": "avatar.jpg",
+	"channels_name": "The names of the channels that the bot will create during the destruction",
+	"roles_name": "The names of the roles that the bot will create during the destruction",
+	"server_name": "The name to which the name of the server will be changed before the destruction",
+	"avatar_file": "avatar.jpg (The file name is avatars. It is necessary to change the server avatar)",
 }
 ```
