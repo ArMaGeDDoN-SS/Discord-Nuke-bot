@@ -7,9 +7,9 @@
 
 
 <table align="center">
-  <thread>
+  <thead>
     <th> <h5 align="center">This bot was created solely for entertainment and educational purposes</h5> </th>
-  </thread>
+  </thead>
   <tbody>
     <tr>
       <td>he use and development of such bots contradicts Discord T.O.S</p></td>
