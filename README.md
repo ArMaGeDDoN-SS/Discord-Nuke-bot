@@ -39,3 +39,5 @@
 	"avatar_file": "avatar.jpg (The file name is avatars. It is necessary to change the server avatar)",
 }
 ```
+
+<p><code>token</code> - this line specifies the token of your bot.</p>
