@@ -57,7 +57,7 @@
 <summary>General commands</summary>
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
 	
-```C++
+```C#
 attack - Automatic server destruction.
 delchannels - Deleting all channels.
 delroles - Deleting all roles.
