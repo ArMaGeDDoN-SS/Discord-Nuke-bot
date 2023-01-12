@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>
-        The use and development of such bots contradicts Discord T.O.S
+        <p>The use and development of such bots contradicts Discord T.O.S</p>
       </td>
     </tr>
   </tbody>
