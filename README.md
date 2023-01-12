@@ -80,4 +80,15 @@
 </div>
 </details
 
+<details>
+<summary>Commands for interacting with roles</summary>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+	
+```C#
++ admin - Give yourself a role with administrator rights.
++ everyone_admin - Grant administrator rights to all participants.
++ giverole <@Ping role | ID role> - Give yourself the mentioned role.	
+```
+</div>
+</details
 
