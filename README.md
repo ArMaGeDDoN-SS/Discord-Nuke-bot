@@ -38,3 +38,9 @@
 	"server_name": "___...-<<CrAsH3D>>-...___",
 	"avatar_file": "avatar.jpg",
 }```</code></pre>
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
