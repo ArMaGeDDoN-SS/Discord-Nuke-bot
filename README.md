@@ -78,7 +78,7 @@
 + ban_all - Ban all participants.	
 ```
 </div>
-</details
+</details>
 
 <details>
 <summary>Commands for interacting with roles</summary>
@@ -90,5 +90,5 @@
 + giverole <@Ping role | ID role> - Give yourself the mentioned role.	
 ```
 </div>
-</details
+</details>
 
