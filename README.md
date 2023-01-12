@@ -68,3 +68,15 @@
 ```
 </div>
 </details>
+
+<details>
+	<summary>Commands for interacting with server participants</summary>
+	<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+```C#
++ kick_all - Kick all participants.
++ ban_all - Ban all participants.	
+```
+	</div>
+</details
+
+
