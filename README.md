@@ -46,5 +46,5 @@
 <p><code>developer_list</code> - This list specifies the ID of users who will have access to system commands that edit the blacklist and whitelist.</p>
 <p><code>channels_name</code> - This line specifies the name for the channels that the bot will spam when the server is destroyed.</p>
 <p><code>roles_name</code> - This line specifies the name for the roles that the bot will spam when the server is destroyed.</p>
-<p><code>server_name</code> - This line specifies a new name for the server. When the bot destroys the server, it changes its name to the one specified in this line.</p>
+<p><code>server_name</code> - This line specifies a new name for the server. When the bot destroys the server, it changes its name to the specified one.</p>
 <p><code>avatar_file</code> - </p>
