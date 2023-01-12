@@ -32,7 +32,7 @@
 	"token": "Your bot token",
 	"prefix": "YOU PREFIX HERE",
 	"loghook": "The webhook to which information about the destroyed servers will be sent.", 
-	"developer_list": [],
+	"developer_list": ["List of people who will be granted access to the developer's commands"],
 	"channels_name": "crash3d by blood group",
 	"roles_name": "crash3d by blood group",
 	"server_name": "___...-<<CrAsH3D>>-...___",
