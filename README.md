@@ -10,5 +10,12 @@
   <thread>
     <th> <h5 align="center">This bot was created solely for entertainment and educational purposes</h5> </th>
   </thread>
+  <tbody>
+    <tr>
+      <td>
+        The use and development of such bots contradicts Discord T.O.S
+      </td>
+    </tr>
+  </tbody>
 </table>
 
