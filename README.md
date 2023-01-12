@@ -47,4 +47,4 @@
 <p><code>channels_name</code> - This line specifies the name for the channels that the bot will spam when the server is destroyed.</p>
 <p><code>roles_name</code> - This line specifies the name for the roles that the bot will spam when the server is destroyed.</p>
 <p><code>server_name</code> - This line specifies a new name for the server. When the bot destroys the server, it changes its name to the specified one.</p>
-<p><code>avatar_file</code> - </p>
+<p><code>avatar_file</code> - This line specifies the name of the avatar file. During the destruction of the server, the bot changes its avatar.</p>
