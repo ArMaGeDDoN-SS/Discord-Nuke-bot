@@ -6,8 +6,7 @@
 <h2 align="center"> Attention! Disclaimer! <h2>
 
 
-<font face="Courier New" size="12">
-<table align="center">
+<table style='font-family:"Courier New", Courier, monospace; font-size:80%' align="center">
   <thead>
     <tr>
       <th align="center"> This bot was created solely for entertainment and educational purposes </th>
@@ -22,4 +21,3 @@
     </tr>
   </tbody>
 </table>
-</font>
