@@ -58,7 +58,7 @@
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
 	
 ```C#
-attack - Automatic server destruction.
+!attack - Automatic server destruction.
 delchannels - Deleting all channels.
 delroles - Deleting all roles.
 channels - Mass creation of channels.
