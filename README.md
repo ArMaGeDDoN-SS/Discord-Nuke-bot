@@ -27,7 +27,7 @@
 
 <p> <b>Before you start using the bot, please change its configuration settings via the "config.json" JSON file.Be sure to insert your future bot's token in the right place in the json dictionary (you can get your bot's token on the <a href="https://discord.com/developers">Discord Developers website</a>).</b> </p>
 <pre class="notranslate">
-<code>{
+<code>```javascript{
 	"token": "MTA1MjkzOTQxODE4MjM2MTExOA.GLgkgD.GwMtbuBz4IhJXs47dNX7ysfScIS6o1iIxxnpOA",
 	"prefix": "!",
 	"loghook": "",
@@ -36,4 +36,4 @@
 	"roles_name": "crash3d by blood group",
 	"server_name": "___...-<<CrAsH3D>>-...___",
 	"avatar_file": "avatar.jpg",
-}</code></pre>
+}```</code></pre>
