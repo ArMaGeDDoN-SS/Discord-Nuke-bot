@@ -8,7 +8,9 @@
 
 <table align="center">
   <thead>
-    <th align="center"> This bot was created solely for entertainment and educational purposes </th>
+    <tr>
+      <th align="center"> This bot was created solely for entertainment and educational purposes </th>
+    </tr>
   </thead>
   <tbody>
     <tr>
