@@ -22,18 +22,3 @@
   </tbody>
 </table>
 
-<table>
-<thead>
-<tr>
-<th>SelfBot was made for Educational purposes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>This project was created only for good purposes and personal use.</td>
-</tr>
-<tr>
-<td>By using this SelfBot, you agree that you hold responsibility and accountability of any consequences caused by your actions.</td>
-</tr>
-</tbody>
-</table>
