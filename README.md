@@ -6,6 +6,7 @@
 <h2 align="center"> Attention! Disclaimer! <h2>
 
 
+<font face="Courier New" size="12">
 <table align="center">
   <thead>
     <tr>
@@ -21,4 +22,4 @@
     </tr>
   </tbody>
 </table>
-
+</font>
