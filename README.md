@@ -40,7 +40,8 @@
 }
 ```
 
-<p><code>token</code> - This line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p>
+<ul>
+<li><p><code>token</code> - This line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p></li>
 <p><code>prefix</code> - This line specifies the prefix of your bot. The default value is <code>"!"</code>.</p>
 <p><code>loghook</code> - This line contains a link to the webhook. Before the destruction of the server begins, the bot sends information about the target server to the webhook you specified.</p>
 <p><code>developer_list</code> - This list specifies the ID of users who will have access to system commands that edit the blacklist and whitelist.</p>
@@ -48,3 +49,4 @@
 <p><code>roles_name</code> - This line specifies the name for the roles that the bot will spam when the server is destroyed.</p>
 <p><code>server_name</code> - This line specifies a new name for the server. When the bot destroys the server, it changes its name to the specified one.</p>
 <p><code>avatar_file</code> - This line specifies the name of the avatar file. During the destruction of the server, the bot changes its avatar.</p>
+</ul>
