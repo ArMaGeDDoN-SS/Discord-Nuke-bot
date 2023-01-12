@@ -6,6 +6,6 @@
 <h2 align="center"> Attention! Disclaimer! <h2>
 <table>
   <thread>
-    <th> This bot was created solely for entertainment and educational purposes </th>
+    <th> <h3 align="center">This bot was created solely for entertainment and educational purposes</h3> </th>
   </thread>
 </table>
