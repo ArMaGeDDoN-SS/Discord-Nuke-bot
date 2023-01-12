@@ -27,7 +27,7 @@
 
 <p> <b>Before you start using the bot, please change its configuration settings via the "config.json" JSON file.Be sure to insert your future bot's token in the right place in the json dictionary (you can get your bot's token on the <a href="https://discord.com/developers">Discord Developers website</a>).</b> </p>
 <pre class="notranslate">
-<code>```javascript
+<code>```python
 {
 	"token": "Your bot token",
 	"prefix": "!",
