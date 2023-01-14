@@ -59,6 +59,10 @@
 
 <p align="center"><img src="https://media.discordapp.net/attachments/1052941656564961291/1063176944541257798/image.png?width=883&height=555" align="center"></p>
 
+<p align="center">
+	<strong>A list of all the commands that are currently available in the bot version 1.0.1:</strong>
+</p>
+
 <details>
 <summary>General commands</summary>
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
