@@ -64,7 +64,7 @@
 </p>
 
 <p>
-	<strong>A list of all the commands that are currently available in the bot version 1.0.1:</strong>
+	<strong>Here is a handy list of all the commands with a description of their functionality, which are currently available and successfully working in the bot version <code>1.0.1</code>:</strong>
 </p>
 
 <details>
