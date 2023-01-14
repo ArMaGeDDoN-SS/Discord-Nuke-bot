@@ -72,11 +72,11 @@ class Int_Commands(commands.Cog):
 
                 else:
                     embed = discord.Embed(
-            	        title = "Ошибка!",
+            	        title = "Error!",
             	        description = f"""
-**<@{ctx.author.id}>, вы указали слишком большое количество создаваемых каналов.
-> Максимальное количество каналов, которое можно использовать: `100`.
-> Минимальное количество каналов, которое можно использовать: `-1`.**""",
+**<@{ctx.author.id}>, you have specified too many channels to create.
+> The maximum number of channels that can be specified: `100`.
+> The maximum number of channels that can be specified: `1`.**""",
             	        color = 0xFF0000
                     )
                     embed.set_footer(
@@ -141,9 +141,9 @@ class Int_Commands(commands.Cog):
                     embed = discord.Embed(
                         title = "Ошибка!",
                         description = f"""
-**<@{ctx.author.id}>, вы указали слишком большое количество создаваемых ролей.
-> Максимальное количество ролей, которое можно создать: `100`.
-> Минимальное количество ролей, которое можно создать: `1`.**""",
+**<@{ctx.author.id}>, you have specified too many roles to create.
+> The maximum number of roles that can be specified: `100`.
+> The minimum number of roles that can be specified: `1`.**""",
                         color = 0xFF0000
                     )
                     embed.set_footer(
