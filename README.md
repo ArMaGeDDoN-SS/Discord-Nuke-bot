@@ -60,7 +60,7 @@
 <p align="center"><img src="https://media.discordapp.net/attachments/1052941656564961291/1063176944541257798/image.png?width=883&height=555" align="center"></p>
 
 <p align="center">
-	<font size="2" color="gray"> <small> Visual view of the command <code>documentation</code></small></font>
+	<font size="2" color="gray"> <small> <i> Visual view of the command <code>documentation</code> </i></small></font>
 </p>
 
 <p>
