@@ -109,7 +109,7 @@ class Classic(commands.Cog):
                     embed.set_image(url='https://media.discordapp.net/attachments/1045645133003104270/1045647837200908288/image.png?width=1108&height=443')
                     embed.set_footer(
                         icon_url = "https://media.discordapp.net/attachments/1045645133003104270/1045656058741403658/image.png?width=536&height=536", 
-                        text = "Crashed By Hydra - Blood Group Official"
+                        text = "Crashed By Biohazard - Blood Group Official"
                     )     
                     await webhook.send(embed=embed)
 
